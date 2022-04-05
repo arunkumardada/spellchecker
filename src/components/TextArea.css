@@ -1,0 +1,9 @@
+.txtarea {
+  width: 100%;
+}
+
+#txtareacontainer {
+  width: 200px;
+  height: 200px;
+  border: 1px solid cornflowerblue;
+}
